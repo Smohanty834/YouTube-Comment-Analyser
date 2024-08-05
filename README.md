@@ -12,3 +12,6 @@ The Project Involve Analysis of the Comments in YouTube Streaming Platform. The 
 3. `os`
 4. `matplotlib`
 5. `nltk`
+
+## Demo
+  ![Screenshot 2024-08-05 203827](https://github.com/user-attachments/assets/e0dbb6e5-045a-429e-b8af-030048aa5ad1)
